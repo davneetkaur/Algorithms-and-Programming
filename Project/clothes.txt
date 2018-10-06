@@ -1,0 +1,16 @@
+jumper:jersey
+shirt:camisa
+t-shirt:camiseta
+hat:sombrero
+coat:abrigo
+skirt:falda
+scarf:bufanda
+trousers:pantalones
+shorts:pantalones cortos
+pyjamas:pijamas
+shoes:zapatos
+gloves:guantes
+underpants:calzoncillos
+boots:botas
+sunglasses:gafas de sol
+knickers:bragas

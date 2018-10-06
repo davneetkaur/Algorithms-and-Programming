@@ -1,0 +1,11 @@
+red:rojo
+black:negro
+white:blanco
+yellow:amarillo
+purple:morado
+orange:naranja
+pink:rosa
+brown:marron
+blue:azul
+green:verde
+grey:gris

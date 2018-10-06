@@ -1,0 +1,12 @@
+tiger:tigre
+elephant:elefante
+snake:serpiente
+giraffe:jirafa
+bird:pajaro
+bee:abeja
+lizard:lagartija
+bear:oso
+butterfly:mariposa
+caterpillar:oruga
+horse:caballo
+fish:pez

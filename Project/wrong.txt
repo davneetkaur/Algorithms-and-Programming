@@ -1,0 +1,8 @@
+black:negro
+fish:pez
+bear:oso
+sunglasses:gafas de sol
+shorts:pantalones cortos
+gloves:guantes
+to study:estudiar
+to take:tomar

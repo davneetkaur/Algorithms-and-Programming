@@ -1,0 +1,17 @@
+project
+Do we need to create 'wrong' file?
+ if yes, it will always replace contents.
+
+do we want to give the user a choice to continue or exit?
+
+what is to be done in pt 2 of program requirements?
+
+lab6
+do we need 2 scripts? one for function, one for program
+
+
+mon 9:15 - 10:30
+tue 3:45 - 5 , 7 - 9:45
+wed 9:15 - 10:30
+thu 3:45 - 5
+fri
